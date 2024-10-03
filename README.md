@@ -22,6 +22,18 @@ To empower healthcare providers and patients through technology, improving acces
 - **Payment (Payer)**:
   - **Name**: Utilizes stablecoin.
   - **Problem**: Needs secure, fast, and transparent transactions within the healthcare ecosystem.
+ 
+- **Veterinary Wellness Entrepreneur (New Persona)**:
+  - **Name**: Indigo
+  - **Sex**: Female
+  - **Race**: Black
+  - **Education**: 2024 graduate of St. Louis University with a degree in Biology.
+  - **Profession**: Plans to attend veterinary school with a focus on small animals.
+  - **Business Goal**: Indigo's long-term goal is to establish a business that provides nutrition-based wellness services for **Felis catus** (domestic cats) to promote preventive care, protect against disease, and prolong the healthy life of cats. She plans to develop an **online pharmacy specifically for cats**.
+  - **Pet Owner**: Indigo takes care of her beloved cat, **Ivy**.
+  - **Divine Nine Member**: She is an active member of **Delta Sigma Theta Sorority, Inc.**, part of the Divine Nine, which plays a significant role in her leadership and community service efforts.
+  - **Problem**: Indigo requires a platform that supports veterinary professionals and wellness entrepreneurs in establishing online businesses for niche animal care markets, including pharmacy services and preventive care solutions.
+
 
 ## Technology Stack
 - **Smart Contracts**: For managing secure transactions and data integrity.
@@ -36,3 +48,4 @@ Get started with DivvyHealth by cloning this repository and installing the depen
 git clone https://github.com/yourusername/DivvyHealth.git
 cd DivvyHealth
 npm install
+
